@@ -1,4 +1,4 @@
-# SQL
+# SQL social media DB
 This project is a Social Media Database System designed using SQL.
 It focuses on building the core relational structure required for any social media platform, including users, posts, interactions, and login tracking.
 
